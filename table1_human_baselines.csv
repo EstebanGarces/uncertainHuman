@@ -1,0 +1,4 @@
+Diversity Type,Mean,Std Dev,IQR,N
+Semantic,0.645,0.066,0.083,500
+Lexical,0.328,0.035,0.043,500
+Syntactic,10.315,6.965,2.148,500

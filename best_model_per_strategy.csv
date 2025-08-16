@@ -1,0 +1,5 @@
+Strategy,Best Model,Calibration,Distance
+temperature,Gemma-2B,0.547,0.286
+top_k,GPT2-XL,0.526,0.262
+top_p,Gemma-2B,0.520,0.321
+typical_p,Llama-3.1-8B-Instruct,0.491,0.993
